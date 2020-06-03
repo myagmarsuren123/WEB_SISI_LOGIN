@@ -1,6 +1,5 @@
 # WEB_SISI_LOGIN
 
-React Native
-SISI системийн login screen.
+React - SISI системийн login screen.
 
-expo- ажиллуулсан үр дүнг хавсаргалаа.
+Expo client-ээр ажиллуулсан үр дүнг хавсаргалаа.
